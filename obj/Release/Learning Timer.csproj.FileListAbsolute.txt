@@ -1,0 +1,20 @@
+D:\My_project\Tugas\Learning Timer\Learning Timer\bin\Release\Learning Timer.exe.config
+D:\My_project\Tugas\Learning Timer\Learning Timer\bin\Release\Learning Timer.exe
+D:\My_project\Tugas\Learning Timer\Learning Timer\bin\Release\Learning Timer.pdb
+D:\My_project\Tugas\Learning Timer\Learning Timer\obj\Release\Learning_Timer.belajarMessage.resources
+D:\My_project\Tugas\Learning Timer\Learning Timer\obj\Release\Learning_Timer.Form1.resources
+D:\My_project\Tugas\Learning Timer\Learning Timer\obj\Release\Learning_Timer.istirahatMessage.resources
+D:\My_project\Tugas\Learning Timer\Learning Timer\obj\Release\Learning_Timer.Properties.Resources.resources
+D:\My_project\Tugas\Learning Timer\Learning Timer\obj\Release\Learning Timer.csproj.GenerateResource.Cache
+D:\My_project\Tugas\Learning Timer\Learning Timer\obj\Release\Learning Timer.exe
+D:\My_project\Tugas\Learning Timer\Learning Timer\obj\Release\Learning Timer.pdb
+D:\My_project\Tugas\Learning Timer\Learning Timer\obj\Release\Learning_Timer.FormHome.resources
+D:\My_project\Tugas\Learning Timer\Learning Timer\obj\Release\Learning_Timer.FormAbout.resources
+D:\My_project\Tugas\Learning Timer\Learning Timer\bin\Release\MetroFramework.dll
+D:\My_project\Tugas\Learning Timer\Learning Timer\bin\Release\MetroFramework.Fonts.dll
+D:\My_project\Tugas\Learning Timer\Learning Timer\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\My_project\Tugas\Learning Timer\Learning Timer\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\My_project\Tugas\Learning Timer\Learning Timer\obj\Release\Learning Timer.csprojAssemblyReference.cache
+D:\My_project\Tugas\Learning Timer\Learning Timer\obj\Release\Learning Timer.csproj.CoreCompileInputs.cache
+D:\My_project\Tugas\Learning Timer\Learning Timer\obj\Release\Learning Timer.csproj.CopyComplete
+D:\My_project\Tugas\Learning Timer\Learning Timer\obj\Release\Learning_Timer.Resources.resources

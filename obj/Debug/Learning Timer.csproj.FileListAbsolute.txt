@@ -1,0 +1,22 @@
+D:\My_project\Tugas\Learning Timer\Learning Timer\bin\Debug\Learning Timer.exe.config
+D:\My_project\Tugas\Learning Timer\Learning Timer\bin\Debug\Learning Timer.exe
+D:\My_project\Tugas\Learning Timer\Learning Timer\bin\Debug\Learning Timer.pdb
+D:\My_project\Tugas\Learning Timer\Learning Timer\obj\Debug\Learning_Timer.belajarMessage.resources
+D:\My_project\Tugas\Learning Timer\Learning Timer\obj\Debug\Learning_Timer.Form1.resources
+D:\My_project\Tugas\Learning Timer\Learning Timer\obj\Debug\Learning_Timer.istirahatMessage.resources
+D:\My_project\Tugas\Learning Timer\Learning Timer\obj\Debug\Learning_Timer.Properties.Resources.resources
+D:\My_project\Tugas\Learning Timer\Learning Timer\obj\Debug\Learning Timer.csproj.GenerateResource.Cache
+D:\My_project\Tugas\Learning Timer\Learning Timer\obj\Debug\Learning Timer.exe
+D:\My_project\Tugas\Learning Timer\Learning Timer\obj\Debug\Learning Timer.pdb
+D:\My_project\Tugas\Learning Timer\Learning Timer\bin\Debug\MetroFramework.dll
+D:\My_project\Tugas\Learning Timer\Learning Timer\bin\Debug\MetroFramework.Fonts.dll
+D:\My_project\Tugas\Learning Timer\Learning Timer\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\My_project\Tugas\Learning Timer\Learning Timer\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\My_project\Tugas\Learning Timer\Learning Timer\obj\Debug\Learning_Timer.FormAbout.resources
+D:\My_project\Tugas\Learning Timer\Learning Timer\obj\Debug\Learning_Timer.FormHome.resources
+D:\My_project\Tugas\Learning Timer\Learning Timer\obj\Debug\Learning_Timer.Resources.resources
+D:\My_project\Tugas\Learning Timer\Learning Timer\obj\Debug\Learning Timer.csproj.CoreCompileInputs.cache
+D:\My_project\Tugas\Learning Timer\Learning Timer\obj\Debug\Learning Timer.csproj.CopyComplete
+D:\My_project\Tugas\Learning Timer\Learning Timer\obj\Debug\Interop.WMPLib.dll
+D:\My_project\Tugas\Learning Timer\Learning Timer\obj\Debug\Learning Timer.csproj.ResolveComReference.cache
+D:\My_project\Tugas\Learning Timer\Learning Timer\obj\Debug\Learning Timer.csprojAssemblyReference.cache
